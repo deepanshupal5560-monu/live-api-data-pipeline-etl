@@ -1,0 +1,9 @@
+2026-11-25 12:48:25,615 | INFO | Starting API extraction job for 6 locations.
+2026-11-25 12:48:27,226 | INFO | Successfully extracted data for New York, USA.
+2026-11-25 12:48:28,717 | INFO | Successfully extracted data for London, UK.
+2026-11-25 12:48:30,404 | INFO | Successfully extracted data for Tokyo, Japan.
+2026-11-25 12:48:32,392 | INFO | Successfully extracted data for Berlin, Germany.
+2026-11-25 12:48:34,731 | INFO | Successfully extracted data for Bengaluru, India.
+2026-11-25 12:48:37,013 | INFO | Successfully extracted data for Noida, India.
+2026-11-25 12:48:37,050 | INFO | Transformation complete. Valid: 6 | Dropped: 0
+2026-11-25 12:48:37,083 | INFO | Loaded 6 new rows into global_weather_warehouse.db.

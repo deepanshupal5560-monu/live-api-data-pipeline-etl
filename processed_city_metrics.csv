@@ -1,0 +1,7 @@
+city,country,latitude,longitude,temperature_c,humidity_pct,wind_speed_kmh,api_timestamp,ingested_at_utc,temperature_f,climate_status
+New York,USA,40.7128,-74.006,0.5,66,13.4,2026-11-25T07:15,2026-11-25 07:18:27,32.9,Cold
+London,UK,51.5072,-0.1276,4.9,76,9.7,2026-11-25T07:15,2026-11-25 07:18:28,40.82,Cold
+Tokyo,Japan,35.6762,139.6503,12.2,39,2.2,2026-11-25T07:15,2026-11-25 07:18:30,53.96,Cold
+Berlin,Germany,52.52,13.405,0.8,78,7.8,2026-11-25T07:15,2026-11-25 07:18:32,33.44,Cold
+Bengaluru,India,12.9716,77.5946,27.2,64,9.3,2026-11-25T07:15,2026-11-25 07:18:34,80.96,Moderate
+Noida,India,28.5355,77.391,23.7,42,4.2,2026-11-25T07:15,2026-11-25 07:18:37,74.66,Moderate
